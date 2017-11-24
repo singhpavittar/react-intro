@@ -1,0 +1,67 @@
+.padding-0 {
+  padding: 0px;
+}
+
+.margin-0 {
+  margin: 0px;
+}
+
+.m-l-0 {
+  margin-left: 0px !important;
+}
+
+.m-r-0 {
+  margin-right: 0px !important;
+}
+
+.col-centered {
+  margin: auto;
+  float: none;
+}
+
+.side-bar {
+  background-color: black;
+}
+
+.app-container {
+  margin: 0px;
+  width: 100%;
+  padding: 0px;
+  height: 100%;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.bg-black {
+  background: #000000b0;
+}
+
+.text-gold {
+  color: gold;
+}
+
+.text-white {
+  color: white;
+}
+
+/*line height*/
+
+.l-h-1-2 {
+  line-height: 1.2em;
+}
+
+.centering-body {
+  position: absolute;
+  top: 35%;
+  bottom: 50%;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
