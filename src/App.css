@@ -14,6 +14,14 @@
   margin-right: 0px !important;
 }
 
+.m-t-40 {
+  margin-top: 40px;
+}
+
+.m-b-10 {
+  margin-bottom: 10px;
+}
+
 .col-centered {
   margin: auto;
   float: none;
@@ -38,6 +46,10 @@
   width: 100%;
 }
 
+.bg-k-blue {
+  background-color: #66ccff;
+}
+
 .bg-black {
   background: #000000b0;
 }
@@ -48,6 +60,10 @@
 
 .text-white {
   color: white;
+}
+
+.text-black, .text-black a {
+  color: black !important;
 }
 
 /*line height*/
@@ -64,4 +80,13 @@
 
 .fs-20 {
   font-size: 20px;
+}
+
+.centering-form-div {
+  margin: auto;
+  position: absolute;
+  top: 25%;
+  max-width: 340px;
+  left: 0;
+  right: 0;
 }
