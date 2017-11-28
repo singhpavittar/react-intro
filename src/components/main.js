@@ -11,7 +11,8 @@ class Main extends React.Component {
 
   renderComponents = () => ({
     Home: () => <div><Header/><Home/></div>,
-    AddSubstance: () => <div><Header/><AddSubstance/></div>,
+    // <Header/>
+    AddSubstance: () => <div><AddSubstance/></div>,
     Listing: () => <div><Header/><Listing/></div>,
     ErrorPage: () => <ErrorPage/>
   });
